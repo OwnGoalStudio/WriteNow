@@ -2,6 +2,8 @@
 
 **Elevate Your Writing with Just a Click**
 
+[简体中文](./Resources/i18n/zh-Hans/README.md)
+
 Transform your text in an instant with Write Now, your all-in-one writing assistant. Whether you’re crafting a message, editing a document, or refining your next masterpiece, Write Now ensures your words leave the impact you desire—all while prioritizing your privacy.
 
 ![Preview](./Resources/Preview.png)
@@ -45,10 +47,12 @@ To utilize the AI features, it is necessary to configure the AI server endpoints
 We recommend the following OpenAI API providers. After obtaining the key, please fill in the endpoint and key fields in the settings and select a model to get started. Most of the providers offer a generous quota for your personal use.
 
 - [OpenAI](https://platform.openai.com/)
+
   - Endpoint: `https://api.openai.com/`
   - Get key from [here](https://platform.openai.com/api-keys)
 
 - [TogetherAI](https://api.together.xyz/)
+
   - Endpoint: `https://api.together.xyz/`
   - Get key from [here](https://api.together.ai/settings/api-keys)
 
