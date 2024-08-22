@@ -8,7 +8,10 @@
 
 ## 主要功能：
 
-我们优化了所有提示词，以确保它们在各种模型上都能有效运行。以下是妙写提供的主要功能。请注意，中文并非多数语言模型的首要训练语言。若希望获得更好的中文支持，建议使用专门训练的中文模型。
+我们优化了所有提示词，以确保它们在各种模型上都能有效运行。以下是妙写提供的主要功能。
+
+**请注意，中文并非多数语言模型的首要训练语言。若希望获得更好的中文支持，建议使用专门训练的中文模型。**
+**我们推荐使用 `command-r-plus` 或 `qwen2-72b-instruct` 作为中文首选模型**
 
 - **校对**  
   协助你确保文本没有语法错误。妙写的校对工具会扫描内容中的语法、拼写和部分风格问题，并提供提修正。
@@ -47,26 +50,30 @@
 - [OpenAI](https://platform.openai.com/)
 
   - 端点: `https://api.openai.com/`
-  - 获取密钥：[点击这里](https://platform.openai.com/api-keys)
+  - 获取密钥: [点击这里](https://platform.openai.com/api-keys)
 
 - [TogetherAI](https://api.together.xyz/)
 
   - 端点: `https://api.together.xyz/`
-  - 获取密钥：[点击这里](https://api.together.ai/settings/api-keys)
+  - 获取密钥: [点击这里](https://api.together.ai/settings/api-keys)
 
 - [OpenRouter](https://openrouter.ai/)
 
   - 端点: `https://openrouter.ai/api`
-  - 获取密钥：[点击这里](https://openrouter.ai/settings/keys)
+  - 获取密钥: [点击这里](https://openrouter.ai/settings/keys)
 
 - [Groq](https://groq.com/)
 
   - 端点: `https://api.groq.com/openai/`
-  - 获取密钥：[点击这里](https://console.groq.com/keys)
+  - 获取密钥: [点击这里](https://console.groq.com/keys)
 
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai/)
   - 端点: `https://integrate.api.nvidia.com`
-  - 获取密钥：[点击这里](https://build.nvidia.com/explore/reasoning)
+  - 获取密钥: [点击这里](https://build.nvidia.com/explore/reasoning)
+
+- [GitHub Models](https://github.com/marketplace/models)
+  - 端点: `https://models.inference.ai.azure.com`
+  - 获取密钥: [点击这里](https://github.com/settings/tokens)
 
 #### 自托管 AI 服务器
 

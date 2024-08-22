@@ -65,6 +65,9 @@ We recommend the following OpenAI API providers. After obtaining the key, please
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai/)
   - Endpoint: `https://integrate.api.nvidia.com`
   - Get key from [here](https://build.nvidia.com/explore/reasoning)
+- [GitHub Models](https://github.com/marketplace/models)
+  - Endpoint: `https://models.inference.ai.azure.com`
+  - Get key from [here](https://github.com/settings/tokens)
 
 #### Self-Host AI Server
 
