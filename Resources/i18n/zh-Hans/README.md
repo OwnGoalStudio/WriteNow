@@ -8,7 +8,7 @@
 
 ## 体验版
 
-由于插件配置较为复杂，尽管软件提供了内建的节点供你使用，我们依然无法保证你的配置能在软件中使用。为了改善这个问题，我们提供试用版本，供巨魔商店用户使用。你可以 [点击安装]() 或者 [下载这个软件包](../../LiteEdition/WriteNowLite_1.7.5.tipa) 。
+由于插件配置较为复杂，尽管软件提供了内建的节点供你使用，我们依然无法保证你的配置能在软件中使用。为了改善这个问题，我们提供试用版本，供巨魔商店用户使用。你可以 [点击安装](apple-magnifier://install?url=https://github.com/OwnGoalStudio/WriteNow/raw/main/Resources/LiteEdition/WriteNowLite_1.7.5.tipa) 或者 [下载这个软件包](../../LiteEdition/WriteNowLite_1.7.5.tipa) 。
 
 ## 主要功能：
 
