@@ -10,7 +10,7 @@ Transform your text in an instant with Write Now, your all-in-one writing assist
 
 ## Lite Edition
 
-Due to the complexity of the plugin configuration, we cannot guarantee that your configuration will work in the software, even though the software provides built-in nodes for you to use. To improve this issue, we provide a trial version for users of the Havoc Store. You can <a href="apple-magnifier://install?url=https://github.com/OwnGoalStudio/WriteNow/raw/main/Resources/LiteEdition/WriteNowLite_1.7.5.tipa">click to install</a> or <a href="./Resources/LiteEdition/WriteNowLite_1.7.5.tipa">download this package</a>.
+Due to the complexity of the plugin configuration, we cannot guarantee that your configuration will work in the software, even though the software provides built-in nodes for you to use. To improve this issue, we provide a trial version for users of the Havoc Store. You can [click to install](https://intradeus.github.io/http-protocol-redirector?r=apple-magnifier://install?url=https://github.com/OwnGoalStudio/WriteNow/raw/main/Resources/LiteEdition/WriteNowLite_1.7.5.tipa) or [download this package](./Resources/LiteEdition/WriteNowLite_1.7.5.tipa).
 
 This version of the software package must be used with [TrollFools](https://github.com/Lessica/TrollFools/) or similar technologies.
 
@@ -53,25 +53,28 @@ To utilize the AI features, it is necessary to configure the AI server endpoints
 We recommend the following OpenAI API providers. After obtaining the key, please fill in the endpoint and key fields in the settings and select a model to get started. Most of the providers offer a generous quota for your personal use.
 
 - [OpenAI](https://platform.openai.com/)
+
   - Endpoint: `https://api.openai.com/`
   - Get key from [here](https://platform.openai.com/api-keys)
 
 - [TogetherAI](https://api.together.xyz/)
+
   - Endpoint: `https://api.together.xyz/`
   - Get key from [here](https://api.together.ai/settings/api-keys)
 
 - [OpenRouter](https://openrouter.ai/)
+
   - Endpoint: `https://openrouter.ai/api`
   - Get key from [here](https://openrouter.ai/settings/keys)
 
 - [Groq](https://groq.com/)
+
   - Endpoint: `https://api.groq.com/openai/`
   - Get key from [here](https://console.groq.com/keys)
 
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai/)
   - Endpoint: `https://integrate.api.nvidia.com`
   - Get key from [here](https://build.nvidia.com/explore/reasoning)
-  
 - [GitHub Models](https://github.com/marketplace/models)
   - Endpoint: `https://models.inference.ai.azure.com`
   - Get key from [here](https://github.com/settings/tokens)

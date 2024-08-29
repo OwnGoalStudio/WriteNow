@@ -8,9 +8,9 @@
 
 ## 体验版
 
-由于插件配置较为复杂，尽管软件提供了内建的节点供你使用，我们依然无法保证你的配置能在软件中使用。为了改善这个问题，我们提供试用版本，供巨魔商店用户使用。你可以 <a href="apple-magnifier://install?url=https://github.com/OwnGoalStudio/WriteNow/raw/main/Resources/LiteEdition/WriteNowLite_1.7.5.tipa">点击安装</a> 或者 <a href="../../LiteEdition/WriteNowLite_1.7.5.tipa">下载这个软件包</a>。
+由于插件配置较为复杂，尽管软件提供了内建的节点供你使用，我们依然无法保证你的配置能在软件中使用。为了改善这个问题，我们提供试用版本，供巨魔商店用户使用。你可以 [点击安装](https://intradeus.github.io/http-protocol-redirector?r=apple-magnifier://install?url=https://github.com/OwnGoalStudio/WriteNow/raw/main/Resources/LiteEdition/WriteNowLite_1.7.5.tipa) 或者 [下载这个软件包](../../LiteEdition/WriteNowLite_1.7.5.tipa)。
 
-此版本必须配合 [TrollFools](https://github.com/Lessica/TrollFools/) 或类似的技术使用。
+此版本的软件包必须配合 [TrollFools](https://github.com/Lessica/TrollFools/) 或类似的技术使用。
 
 ## 主要功能：
 
@@ -74,6 +74,7 @@
   - 获取密钥: [点击这里](https://console.groq.com/keys)
 
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai/)
+
   - 端点: `https://integrate.api.nvidia.com`
   - 获取密钥: [点击这里](https://build.nvidia.com/explore/reasoning)
 
