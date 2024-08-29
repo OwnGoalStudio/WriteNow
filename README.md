@@ -10,7 +10,9 @@ Transform your text in an instant with Write Now, your all-in-one writing assist
 
 ## Lite Edition
 
-Due to the complexity of the plugin configuration, we cannot guarantee that your configuration will work in the software, even though the software provides built-in nodes for you to use. To improve this issue, we provide a trial version for users of the Havoc Store. You can [click to install](apple-magnifier://install?url=https://github.com/OwnGoalStudio/WriteNow/raw/main/Resources/LiteEdition/WriteNowLite_1.7.5.tipa) or [download this package](./Resources/LiteEdition/WriteNowLite_1.7.5.tipa).
+Due to the complexity of the plugin configuration, we cannot guarantee that your configuration will work in the software, even though the software provides built-in nodes for you to use. To improve this issue, we provide a trial version for users of the Havoc Store. You can <a href="apple-magnifier://install?url=https://github.com/OwnGoalStudio/WriteNow/raw/main/Resources/LiteEdition/WriteNowLite_1.7.5.tipa">click to install</a> or <a href="./Resources/LiteEdition/WriteNowLite_1.7.5.tipa">download this package</a>.
+
+This version of the software package must be used with [TrollFools](https://github.com/Lessica/TrollFools/) or similar technologies.
 
 ## Key Features:
 
