@@ -8,6 +8,10 @@ Transform your text in an instant with Write Now, your all-in-one writing assist
 
 ![Preview](./Resources/Preview.png)
 
+## Lite Edition
+
+Due to the complexity of the plugin configuration, we cannot guarantee that your configuration will work in the software, even though the software provides built-in nodes for you to use. To improve this issue, we provide a trial version for users of the Havoc Store. You can [click to install]() or [download this package](./Resources/LiteEdition/WriteNowLite_1.7.5.tipa).
+
 ## Key Features:
 
 We have optimized all our prompts to function effectively across various models. Here are the key features of Write Now:
