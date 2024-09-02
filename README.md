@@ -1,5 +1,9 @@
 # Write Now
 
+[now-on-havoc]: https://havoc.app/package/writenow
+
+[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
+
 **Elevate Your Writing with Just a Click**
 
 [简体中文](./Resources/i18n/zh-Hans/README.md)
